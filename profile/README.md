@@ -31,12 +31,6 @@ Atualmente, a maioria dos nossos repositórios são privados devido à natureza 
 
 ---
 
-## 🤝 Trabalhe Conosco
-
-Se você é desenvolvedor, designer ou entusiasta de tecnologia e quer fazer parte de um time que transforma ideias em soluções reais, entre em contato com a gente! Estamos sempre em busca de novos talentos.
-
----
-
 ## 📬 Contato
 
 Entre em contato conosco através do [nosso site](https://softknight.com.br) ou pelo e-mail [contact@softknight.com.br](mailto:contact@softknight.com.br).
