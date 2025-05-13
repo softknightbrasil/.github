@@ -10,7 +10,7 @@ Na Soft Knight, acreditamos no poder da tecnologia para impulsionar empresas. De
 
 📍 Sediados no Brasil  
 🌐 [softknight.com.br](https://softknight.com.br)  
-✉️ contato: [contact@softknight.com.br](mailto:contact@softknight.com.br)
+✉️ [contact@softknight.com.br](mailto:contact@softknight.com.br)
 
 ---
 
